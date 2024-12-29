@@ -1,3 +1,6 @@
+[EBOOK JOVEM.pdf](https://github.com/user-attachments/files/18270757/EBOOK.JOVEM.pdf)
+
+
 Projeto EBOOK Gerado por I.A.s
 
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da DIO
