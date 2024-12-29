@@ -43,8 +43,9 @@ young people financial freedom
 
 ✨ Features
 
-Conteúdo gerado via ChatGPT
-Imagens geradas via Leonardo.AI
+- Conteúdo gerado via ChatGPT
+  
+- Imagens geradas via Leonardo.AI
 
 
 
