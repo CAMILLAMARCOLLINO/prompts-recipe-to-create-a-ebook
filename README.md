@@ -1,6 +1,3 @@
-[EBOOK JOVEM.pdf](https://github.com/user-attachments/files/18270757/EBOOK.JOVEM.pdf)
-
-
 Projeto EBOOK Gerado por I.A.s
 
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da DIO
@@ -9,8 +6,9 @@ Projeto EBOOK Gerado por I.A.s
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 
-📕Clique aqui para ler
-file:///C:/Users/Camilla/OneDrive/%C3%81rea%20de%20Trabalho/CURSO%20IA/EBOOK%20JOVEM.pdf
+📕 
+[EBOOK.pdf](https://github.com/user-attachments/files/18270759/EBOOK.pdf)
+
 
 💻 Tecnologias utilizadas no projeto
 
