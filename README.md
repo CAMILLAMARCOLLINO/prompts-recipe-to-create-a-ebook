@@ -7,7 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 
 📕Clique aqui para ler
-
+file:///C:/Users/Camilla/OneDrive/%C3%81rea%20de%20Trabalho/CURSO%20IA/EBOOK%20JOVEM.pdf
 
 💻 Tecnologias utilizadas no projeto
 
@@ -43,11 +43,7 @@ young people financial freedom
 ✨ Features
 
 Conteúdo gerado via ChatGPT
-Imagens geradas via MidJourney
+Imagens geradas via Leonardo.AI
 
-📚 Materiais
-
-Imagens utilizadas em assets
-ebook gerado durante as aulas em output
 
 
