@@ -9,6 +9,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 📕 
 [EBOOK.pdf](https://github.com/user-attachments/files/18270759/EBOOK.pdf)
 
+LINK DO EBOOK:
+file:///C:/Users/Camilla/OneDrive/%C3%81rea%20de%20Trabalho/CURSO%20IA/EBOOK.pdf
+
 
 💻 Tecnologias utilizadas no projeto
 
